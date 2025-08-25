@@ -22,5 +22,9 @@ This project implements and analyzes a **dual-switch non-inverting buck-boost co
 
 ---
 
-## 📂 Repo Structure
-- `201_Final_Report.pdf` → Full project report
+## 📂 Repository Structure
+- `201_Final_Report.pdf` → Complete writeup (theory, design, simulation results)  
+- `simulink/` → Simulink project files in three stages:  
+  - `ProjectPart1.slx` – initial buck/boost circuit  
+  - `ProjectPart2.slx` – controller integration & analysis  
+  - `Main_Project.slx` – final integrated converter (200V/400V input → 280V output)  
