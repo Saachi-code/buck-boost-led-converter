@@ -1,7 +1,5 @@
-**Report:** [201_Final_Report.pdf](./201_Final_Report.pdf)
-
 **Title:** Implementing Dual-Switch Non-Inverting Buck-Boost Converters for Optimized LED Lighting Systems  
-**Authors:** Hajira Naim, Saachi Jaiswal  
+**Authors:** Saachi Jaiswal,Hajira Naim  
 **Date:** December 2023  
 
 ---
